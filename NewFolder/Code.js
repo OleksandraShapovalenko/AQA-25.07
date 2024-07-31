@@ -1,0 +1,1 @@
+console.log ("The text in file for push to git hub")
